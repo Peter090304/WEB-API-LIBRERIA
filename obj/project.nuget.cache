@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEa/IBD/0vWuXcM6zYKLclulEf1IK2KPHCK699B2S9K1Eg0RCYyEfpvRZS8nSVmisjwFw6xcgcLs0vP/8nUoFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd10\\source\\repos\\app\\Recuperacion\\LIBRERIA_AWOS_PHAC\\libreriaa_PHAC\\libreriaa_PHAC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cd10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cd10\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd10\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd10\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd10\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

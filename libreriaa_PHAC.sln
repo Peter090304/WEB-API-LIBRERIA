@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreriaa_PHAC", "libreriaa_PHAC.csproj", "{7286A7D5-D364-47D3-83DB-7EF1DA4534BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7286A7D5-D364-47D3-83DB-7EF1DA4534BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7286A7D5-D364-47D3-83DB-7EF1DA4534BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7286A7D5-D364-47D3-83DB-7EF1DA4534BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7286A7D5-D364-47D3-83DB-7EF1DA4534BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {824CE739-B570-42EB-9FFA-D610799FD65C}
+	EndGlobalSection
+EndGlobal
